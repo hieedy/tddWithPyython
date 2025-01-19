@@ -1,0 +1,4 @@
+pytest -- using it as testing module to ease writing unit test cases.
+flask - web framework
+pydantic: for data validation
+jsonschema: Validates JSON payloads against the defined schema. Used to define the api response.
